@@ -1,0 +1,14 @@
+{
+  "name": "Min Sommerpark",
+  "short_name": "Sommerpark",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#7fd3ff",
+  "theme_color": "#7fd3ff",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
